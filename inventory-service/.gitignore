@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+### adding environment file to git ignore 
+/src/main/resources/.env
